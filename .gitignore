@@ -48,3 +48,12 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+*helper.txt
+
+# Terraform files 
+terraform.tfvars
+*.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
